@@ -1,0 +1,22 @@
+PODS:
+  - BMSAnalyticsAPI (2.2.0)
+  - BMSCore (2.3.1):
+    - BMSAnalyticsAPI (~> 2.2)
+  - BMSPush (2.0.3):
+    - BMSCore (~> 2.0)
+  - ObjectMapper (2.0.0)
+
+DEPENDENCIES:
+  - BMSCore (~> 2.0)
+  - BMSPush (~> 2.0)
+  - ObjectMapper (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  BMSAnalyticsAPI: 2dae02bc3321b944ae947a7d2f0f009d8035f8e7
+  BMSCore: 59a1a6769d398f55b8bd83be647e084812b924e0
+  BMSPush: 990f376e84260ab3cf7637ba8be05db493f90256
+  ObjectMapper: aed2570edabbd3c9b26c939e1cabdb6558f933e0
+
+PODFILE CHECKSUM: 984bc6899087019e78a499849dfd067c293d2d67
+
+COCOAPODS: 1.2.0

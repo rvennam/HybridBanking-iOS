@@ -1,0 +1,6 @@
+framework module Pods_HybridBankingTests {
+  umbrella header "Pods-HybridBankingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
